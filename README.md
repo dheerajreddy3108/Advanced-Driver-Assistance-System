@@ -47,6 +47,4 @@ Loss - categorical crossentropy
 ![Capture888](https://user-images.githubusercontent.com/55786239/142231251-0271fe64-7f44-4614-a47c-b0748a3c5c04.PNG)
 
 
-
-
-
+A video named output_prediction1 is made with the images converted as video frames and uploaded in the repository. 
