@@ -22,6 +22,21 @@ Test data pairs - 223
 
 The same split ratio for the CamVid semantic segmentation was used in many research papers. 
 
+### Steps Involved ###
+
+1. Data-preprocessing
+2. Data-loading (using custom dataloaders)
+3. Developing the deep learning architecture
+4. Training the model
+5. Evaluating the model:
+    
+    i. Pixel Accuracy
+    
+    ii. Intersection over Union
+
+6. Testing for a particular sample image
+
+
 ### U-Net Architecture ###
 
 
